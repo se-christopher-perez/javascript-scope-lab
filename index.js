@@ -9,7 +9,7 @@ function addBurger() {
 
     burgers.push(newBurger);
 
-    if (true) {
+    if(true) {
 
         const anotherNewBurger = "Maple Bacon Burger";
 
@@ -19,10 +19,10 @@ function addBurger() {
 
 }
 
-
 function changeFeaturedDrink() {
 
     featuredDrink = "The JavaShake";
 
 }
+
 
